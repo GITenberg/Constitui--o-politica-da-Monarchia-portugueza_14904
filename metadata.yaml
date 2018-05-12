@@ -1,0 +1,25 @@
+_repo: Constitui--o-politica-da-Monarchia-portugueza_14904
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Portugal
+    gutenberg_agent_id: '5743'
+    url: http://www.gutenberg.org/2009/agents/5743
+description: ''
+gutenberg_bookshelf: PT Política e Sociedade
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14904'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Constitutions -- Portugal'
+- !lcc 'KJ'
+title: Constituição politica da Monarchia portugueza
+url: http://www.gutenberg.org/ebooks/14904
